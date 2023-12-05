@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Birendra Jung Rai</h1>
 <h3 align="center">A passionate full-stack developer from Nepal</h3>
 
-- 👨‍💻 All of my projects are available at [https://birendrajungrai.com.np/](https://birendrajungrai.com.np/)
+- 👨‍💻 Visit my portfolio [https://birendrajungrai.com.np/](https://birendrajungrai.com.np/)
 
 
 
