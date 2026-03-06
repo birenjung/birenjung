@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="GitHub Banner" src="https://github.com/user-attachments/assets/ae4ff6ed-3149-425a-bf1c-d97334ca4582" />
+
+
 # Hi, I'm Birendra Jung Rai 
 
 Backend Engineer specializing in **Laravel, PHP, and API architecture**.  
