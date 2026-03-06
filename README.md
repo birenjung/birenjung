@@ -1,5 +1,14 @@
-<img width="1536" height="1024" alt="GitHub Banner" src="https://github.com/user-attachments/assets/ae4ff6ed-3149-425a-bf1c-d97334ca4582" />
-
+<!-- GitHub Profile Banner -->
+<div align="center" style="margin-top:-10px; margin-bottom:-10px;">
+  <img width="1536" height="1024" alt="GitHub Banner" src="https://github.com/user-attachments/assets/afb51ee3-a9f4-4d19-a3f1-b1a21fc57729"  style="
+      width:100%;
+      max-width:1200px;
+      height:auto;
+      border-radius:6px;
+      display:block;
+      margin:0 auto;
+    " />
+</div>
 
 # Hi, I'm Birendra Jung Rai 
 
