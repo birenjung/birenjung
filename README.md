@@ -1,16 +1,16 @@
-# Hi, I'm Birendra Jung Rai 👋
+# Hi, I'm Birendra Jung Rai 
 
 Backend Engineer specializing in **Laravel, PHP, and API architecture**.  
 I build scalable backend systems and SaaS platforms used in real production environments.
 
-🌍 Based in Nepal  
-💻 Open to remote backend opportunities  
+Based in Nepal  
+Open to remote backend opportunities  
 🔗 Portfolio: https://birendrajungrai.com.np  
 🔗 LinkedIn: https://linkedin.com/in/birendra-jung-rai
 
 ---
 
-## 🚀 Focus Areas
+## Focus Areas
 
 • Laravel backend architecture  
 • REST / JSON API development  
@@ -20,7 +20,7 @@ I build scalable backend systems and SaaS platforms used in real production envi
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Backend
 PHP • Laravel • MySQL • REST APIs
@@ -33,7 +33,7 @@ Git • MVC architecture • Clean code practices • Linux
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
 ### Machine Supply ERP System
 Laravel-based ERP platform for industrial delivery workflows, contracts, and repair management.
@@ -73,7 +73,7 @@ Features:
 
 ---
 
-## 📫 Contact
+## Contact
 
 Email  
 hello@birendrajungrai.com.np
