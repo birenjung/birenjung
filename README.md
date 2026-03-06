@@ -1,32 +1,41 @@
-<h1 align="center">Birendra Jung Rai</h1>
-<p align="center">
-Backend-focused Full-Stack Laravel Developer · Nepal
-</p>
+# Birendra Jung Rai
 
-<p align="center">
-I build <strong>scalable Laravel applications</strong> and clean backend systems for real-world use — with an emphasis on performance, maintainability, and long-term reliability.
-</p>
+Backend Engineer (Laravel / PHP) based in Nepal.
 
-<p align="center">
-<a href="https://birendrajungrai.com.np/" target="_blank">Portfolio</a>
-</p>
+I build scalable SaaS platforms and backend systems used in real production environments.
 
----
-
-### Focus
+Focus areas:
 - Laravel backend architecture
 - REST / JSON APIs
-- Auth, roles, queues, caching
-- Performance & security
-- Production debugging
+- Authentication, roles & permissions
+- MySQL performance optimization
+- Secure and maintainable systems
 
-### Stack
-- **Backend:** PHP, Laravel, MySQL  
-- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
-- **Tools:** Git, MVC, clean architecture
+## Tech Stack
 
----
+Backend  
+PHP, Laravel, MySQL
 
-<sub>
-I care more about clean systems than flashy code.
-</sub>
+Frontend  
+JavaScript, HTML, CSS, Tailwind
+
+Tools  
+Git, MVC architecture, clean architecture principles
+
+## Projects
+
+Machine Supply ERP System  
+Laravel ERP system for industrial delivery workflows.
+
+Inventory Management System  
+Production-ready billing and stock management system.
+
+Wine E-commerce Platform  
+Laravel backend powering product catalog, checkout, and order workflows.
+
+## Links
+Portfolio  
+https://birendrajungrai.com.np
+
+LinkedIn  
+https://linkedin.com/in/birendra-jung-rai
