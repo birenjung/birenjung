@@ -44,6 +44,9 @@ Features:
 - REST API backend
 - production-ready architecture
 
+Live demo  
+https://reo.ksrjuk.com/
+
 ---
 
 ### Rainbow Inventory Management System
@@ -56,7 +59,7 @@ Features:
 - reporting system
 
 Live demo  
-https://pharmakstjuk.com/
+https://pharma.ksrjuk.com/
 
 ---
 
@@ -67,12 +70,6 @@ Features:
 - real-time log streaming
 - artisan integration
 - terminal-first monitoring
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birenjung&show_icons=true&theme=default)
 
 ---
 
