@@ -1,96 +1,130 @@
-<!-- GitHub Profile Banner 
-<div align="center" style="margin-top:-10px; margin-bottom:-10px;">
-  <img width="1536" height="1024" alt="GitHub Banner" src="https://github.com/user-attachments/assets/afb51ee3-a9f4-4d19-a3f1-b1a21fc57729"  style="
-      width:100%;
-      max-width:1200px;
-      height:auto;
-      border-radius:6px;
-      display:block;
-      margin:0 auto;
-    " />
-</div>
+<!-- Optional GitHub Banner -->
 
--->
+# Hi, I'm Birendra Jung Rai 👋
 
-# Hi, I'm Birendra Jung Rai 
+Backend Engineer focused on building scalable Laravel applications, SaaS platforms, ERP systems, and production-grade APIs.
 
-Backend Engineer specializing in **Laravel, PHP, and API architecture**.  
-I build scalable backend systems and SaaS platforms used in real production environments.
+I specialize in backend architecture, system optimization, and real-world business software development used in active production environments.
 
-Based in Nepal  
-Open to remote backend opportunities  
-🔗 Portfolio: https://birendrajungrai.com.np  
-🔗 LinkedIn: https://linkedin.com/in/birendra-jung-rai
+📍 Nepal  
+🌍 Open to remote backend engineering opportunities
 
 ---
 
-## Focus Areas
+## About Me
 
-• Laravel backend architecture  
-• REST / JSON API development  
-• Authentication & role-based systems  
-• MySQL performance optimization  
-• Scalable SaaS and ERP systems  
+- Backend-focused Laravel engineer
+- Experienced in SaaS, ERP, inventory, and ecommerce systems
+- Strong understanding of scalable application architecture
+- Passionate about clean code, maintainability, and production stability
+- Comfortable working across full development lifecycle from planning to deployment
+
+---
+
+## Core Expertise
+
+- Laravel application architecture
+- RESTful API development
+- Authentication & RBAC systems
+- Database design & optimization
+- Scalable ecommerce systems
+- ERP & inventory platforms
+- Payment and order workflows
+- Production deployment & CI/CD workflows
 
 ---
 
 ## Tech Stack
 
 ### Backend
-PHP • Laravel • MySQL • REST APIs
+`PHP` `Laravel` `MySQL` `REST APIs`
 
-### Frontend (supporting)
-JavaScript • HTML • CSS • Tailwind
+### Frontend (Supporting)
+`JavaScript` `HTML` `CSS` `Tailwind CSS`
 
-### Tools
-Git • MVC architecture • Clean code practices • Linux
+### DevOps & Tools
+`Git` `GitHub Actions` `Linux` `MVC Architecture` `Composer` `NPM`
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Machine Supply ERP System
-Laravel-based ERP platform for industrial delivery workflows, contracts, and repair management.
+## 🍷 Manang Valley Wines Hong Kong
+🔗 https://manangvalleyhk.com
 
-Features:
+Luxury Himalayan wine showcase platform crafted for the Hong Kong premium market.
+
+Built with a strong focus on cinematic presentation, premium branding, and modern product storytelling inspired by high-end lifestyle and wine commerce experiences.
+
+### Highlights
+- custom Laravel-powered backend
+- premium luxury-focused UI/UX implementation
+- responsive product showcase architecture
+- inquiry and contact workflows
+- SEO-optimized production structure
+- optimized frontend performance
+- production deployment & maintenance
+
+### Key Focus Areas
+- premium wine branding
+- immersive landing page experience
+- conversion-focused presentation
+- elegant responsive layouts
+- modern luxury web aesthetics
+- scalable content architecture
+
+---
+
+## 🏭 Machine Supply ERP System
+
+Laravel-based ERP platform for industrial supply, repair management, and operational workflows.
+
+### Features
 - role-based access control
-- automated delivery scheduling
-- REST API backend
-- production-ready architecture
-
-Live demo  
-https://reo.ksrjuk.com/
+- delivery and repair tracking
+- REST API architecture
+- modular backend structure
+- production-ready workflow management
 
 ---
 
-### Rainbow Inventory Management System
-Inventory and billing system used by retail businesses.
+## 📦 Rainbow Inventory Management System
 
-Features:
-- stock management
-- invoicing
-- sales tracking
-- reporting system
+Inventory and billing platform designed for retail business operations.
 
-Live demo  
-https://pharma.ksrjuk.com/
-
----
-
-### Log Watcher
-Open-source Laravel log monitoring tool that improves debugging workflows.
-
-Features:
-- real-time log streaming
-- artisan integration
-- terminal-first monitoring
+### Features
+- inventory & stock management
+- invoicing workflows
+- sales tracking system
+- reporting dashboards
+- optimized database workflows
 
 ---
 
-## Contact
+## Current Focus
 
-Email  
+- Scalable Laravel backend systems
+- API-first architecture
+- Multi-vendor ecommerce platforms
+- SaaS infrastructure
+- Performance optimization
+- CI/CD and deployment automation
+
+---
+
+## Connect With Me
+
+🌐 Portfolio  
+https://birendrajungrai.com.np
+
+💼 LinkedIn  
+https://linkedin.com/in/birendra-jung-rai
+
+📧 Email  
 hello@birendrajungrai.com.np
 
-Portfolio  
-https://birendrajungrai.com.np
+---
+
+## Philosophy
+
+> Build systems that remain maintainable, scalable, and production-stable long after deployment.
