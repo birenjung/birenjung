@@ -1,6 +1,6 @@
 # Hi, I'm Birendra Jung Rai 👋
 
-Backend Engineer focused on building scalable Laravel applications, SaaS platforms, ERP systems, and production-grade APIs used in real business environments.
+Backend Developer focused on building scalable Laravel applications, SaaS platforms, ERP systems, and production-grade APIs used in real business environments.
 
 📍 Nepal  
 🌐 Portfolio: https://birendrajungrai.com.np  
